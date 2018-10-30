@@ -15,18 +15,18 @@ body {
 }
 #header {
     background-color:lightblue;
-    style:color:blue;
+    color:blue;
     text-align:center;
     padding:32px;
 }
 #headerone {
-    style:color:black;
+    color:black;
     text-align:center;
     }
 #homepage
 {
 float:right;
-style:color:blue;
+color:blue;
 }
 #section { 
     background-repeat: no-repeat;
